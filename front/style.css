@@ -1,4 +1,16 @@
+.list-group{
+  border: 3px solid darkblue;
+  margin-top: 2rem;
+}
+
+.task-item{
+  border: 3px solid darkblue;
+}
 .task-item.checked {
     background-color: lightgreen;
   }
+
+.form-check-label{
+  font-weight: 600;
+}
   
